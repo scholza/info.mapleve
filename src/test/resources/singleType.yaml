@@ -1,0 +1,134 @@
+basePrice: 512.0
+description:
+    de: "Ein hoch flüchtiges Mineral, das nur während einer Supernova gebildet
+        wird. Daher ist dessen Vorkommen räumlich stark einschränkt. Ein unverzichtbarer
+        Bestandteil in der Kapselfertigung, was es sehr begehrt macht. \n\nKann
+        durch die Aufbereitung von folgendem Erz erhalten werden: \n\nSonnensystem-Sicherheitsstatus
+        <color='0xFFFF0000'>0.0</color> oder darunter:\n<a href=showinfo:1225>Crokite</a>,
+        <a href=showinfo:17432>Sharp Crokite</a>, <a href=showinfo:17433>Crystalline
+        Crokite</a>\n<a href=showinfo:1232>Dark Ochre</a>, <a href=showinfo:17436>Onyx
+        Ochre</a>, <a href=showinfo:17437>Obsidian Ochre</a>\n\nSonnensystem-Sicherheitsstatus
+        <color='0xFFFF4D00'>0.2</color> oder darunter:\n<a href=showinfo:21>Hedbergite</a>,
+        <a href=showinfo:17440>Vitric Hedbergite</a>, <a href=showinfo:17441>Glazed
+        Hedbergite</a>\n<a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid
+        Hemorphite</a>, <a href=showinfo:17445>Radiant Hemorphite</a>\n\nSonnensystem-Sicherheitsstatus
+        <color='0xFFE58000'>0.4</color> oder darunter:\n<a href=showinfo:1226>Jaspet</a>,
+        <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine
+        Jaspet</a>\n\nSonnensystem-Sicherheitsstatus <color='0xFF4DFFCC'>0.9</color>
+        oder darunter:\n<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid
+        Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>"
+    en: "A highly volatile mineral only formed during supernovas, thus severely
+        limiting the extent of its distribution. Vital ingredient in capsule production,
+        making it very coveted.\r\n\r\nMay be obtained by reprocessing the following
+        ores:\r\n\r\n<color='0xFFFF0000'>0.0</color> security status solar system
+        or lower:\r\n<a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp
+        Crokite</a>, <a href=showinfo:17433>Crystalline Crokite</a>\r\n<a href=showinfo:1232>Dark
+        Ochre</a>, <a href=showinfo:17436>Onyx Ochre</a>, <a href=showinfo:17437>Obsidian
+        Ochre</a>\r\n\r\n<color='0xFFFF4D00'>0.2</color> security status solar
+        system or lower:\r\n<a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric
+        Hedbergite</a>, <a href=showinfo:17441>Glazed Hedbergite</a>\r\n<a href=showinfo:1231>Hemorphite</a>,
+        <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant
+        Hemorphite</a>\r\n\r\n<color='0xFFE58000'>0.4</color> security status
+        solar system or lower:\r\n<a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure
+        Jaspet</a>, <a href=showinfo:17449>Pristine Jaspet</a>\r\n\r\n<color='0xFF4DFFCC'>0.9</color>
+        security status solar system or lower:\r\n<a href=showinfo:1224>Pyroxeres</a>,
+        <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous
+        Pyroxeres</a>"
+    fr: 'Ce minerai très volatile ne se forme que lors de la transformation d''une
+        étoile en supernova. Il est donc très rare d''en trouver. C''est un produit
+        indispensable à la fabrication des capsules. Il est donc extrêmement convoité.
+
+
+        Peut être obtenue en retraitant les minerais suivants :
+
+
+        Système solaire de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+        ou inférieur : <a href=showinfo:1225>crokite</a>, <a href=showinfo:17432>crokite
+        acérée</a>, <a href=showinfo:17433>crokite cristalline</a> <a href=showinfo:1232>ochre
+        foncé</a>, <a href=showinfo:17436>ochre onyx</a>, <a href=showinfo:17437>ochre
+        obsidien</a>
+
+
+        Système solaire de statut de sécurité <color=''0xFFFF4D00''>0,2</color>
+        ou inférieur : <a href=showinfo:21>hedbergite</a>, <a href=showinfo:17440>hedbergite
+        vitrifiée</a>, <a href=showinfo:17441>hedbergite givrée</a> <a href=showinfo:1231>hemorphite</a>,
+        <a href=showinfo:17444>hemorphite vive</a>, <a href=showinfo:17445>hemorphite
+        rayonnante</a>
+
+
+        Système solaire de statut de sécurité <color=''0xFFE58000''>0,4</color>
+        ou inférieur : <a href=showinfo:1226>jaspet</a>, <a href=showinfo:17448>jaspet
+        pur</a>, <a href=showinfo:17449>jaspet immaculé</a>
+
+
+        Système solaire de statut de sécurité <color=''0xFF4DFFCC''>0,9</color>
+        ou inférieur : <a href=showinfo:1224>pyroxeres</a>, <a href=showinfo:17459>pyroxeres
+        solide</a>, <a href=showinfo:17460>pyroxeres visqueux</a>'
+    ja: "揮発性の高い鉱石で、超新星爆発によってのみ生成される。そのため、流通は極めて限られている。カプセル生産に欠かせない原料で、非常に需要が高い。\n\t\t\n以下の鉱石を再処理することによって得ることができる。\n\t\t\nセキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム：\n<a
+        href=showinfo:1225>クロカイト</a>、<a href=showinfo:17432>シャープクロカイト</a>、<a href=showinfo:17433>クリスタルインクロカイト</a>\n<a
+        href=showinfo:1232>ダークオークル</a>、<a href=showinfo:17436>オニキスオークル</a>、<a
+        href=showinfo:17437>オブシディアンオークル</a>\n\nセキュリティステータスが<color='0xFFFF4D00'>0.2</color>以下のソーラーシステム：\n<a
+        href=showinfo:21>ヘッドバーガイト</a>、<a href=showinfo:17440>ガラス質ヘッドバーガイト</a>、<a
+        href=showinfo:17441>グレイズドヘッドバーガイト</a>\n<a href=showinfo:1231>ヘモファイト</a>、<a
+        href=showinfo:17444>ビビッドヘモファイト</a>、<a href=showinfo:17445>レディアントヘモファイト</a>\n\nセキュリティステータスが<color='0xFFE58000'>0.4</color>以下のソーラーシステム：\n<a
+        href=showinfo:1226>ジャスペット</a>、<a href=showinfo:17448>ピュアジャスペット</a>、<a
+        href=showinfo:17449>プリスティンジャスペット</a>\n\nセキュリティステータスが<color='0xFF4DFFCC'>0.9</color>以下のソーラーシステム：\n<a
+        href=showinfo:1224>パイロゼリーズ</a>、<a href=showinfo:17459>ソリッドパイロゼリーズ</a>、<a
+        href=showinfo:17460>粘着質なパイロゼリーズ</a>"
+    ru: 'Крайне нестабильный минерал, образующийся лишь при рождении сверхновой
+        звезды, что в значительной степени ограничивает его доступность. Является
+        основным компонентом при создании капсул, поэтому всегда в цене. Добывается
+        посредством переработки следующих типов руды: <br><br>СС <color=''0xFFFF0000''>0.0</color>
+        и ниже: <br><a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp
+        Crokite</a>, <a href=showinfo:17433>Crystalline Crokite</a> <br><a href=showinfo:1232>Dark
+        Ochre</a>, <a href=showinfo:17436>Onyx Ochre</a>, <a href=showinfo:17437>Obsidian
+        Ochre</a> <br><br>СС <color=''0xFFFF4D00''>0.2</color> и ниже: <br><a
+        href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric Hedbergite</a>,
+        <a href=showinfo:17441>Glazed Hedbergite</a> <br><a href=showinfo:1231>Hemorphite</a>,
+        <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant
+        Hemorphite</a> <br><br>СС <color=''0xFFE58000''>0.4</color> и ниже: <br><a
+        href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>,
+        <a href=showinfo:17449>Pristine Jaspet</a> <br><br>СС <color=''0xFF00FF00''>0.9</color>
+        и ниже: <br><a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid
+        Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>'
+    zh: '一种只有在超新星中才能形成的极不稳定矿物，这在很大程度上限制了它的分布。它是太空舱生产中重要的材料，因此被许多人觊觎。
+
+
+        可以从下列矿石中提炼获得：
+
+
+        安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+        <a href=showinfo:1225>克洛基石</a>、<a href=showinfo:17432>斜克洛基石</a>、<a href=showinfo:17433>克洛基水晶</a>
+
+        <a href=showinfo:1232>黑赭石</a>、<a href=showinfo:17436>条纹赭</a>、<a href=showinfo:17437>黑曜赭石</a>
+
+
+        安全等级<color=''0xFFFF4D00''>0.2</color>及以下星系：
+
+        <a href=showinfo:21>同位原矿</a>、<a href=showinfo:17440>玻璃状同位原矿</a>、<a href=showinfo:17441>光面同位原矿</a>
+
+        <a href=showinfo:1231>希莫非特</a>、<a href=showinfo:17444>多色希莫非特</a>、<a href=showinfo:17445>辐射希莫非特</a>
+
+
+        安全等级<color=''0xFFE58000''>0.4</color>及以下星系：
+
+        <a href=showinfo:1226>杰斯贝矿</a>、<a href=showinfo:17448>纯杰斯贝矿</a>、<a href=showinfo:17449>朴质杰斯贝矿</a>
+
+
+        安全等级<color=''0xFF4DFFCC''>0.9</color>及以下星系：
+
+        <a href=showinfo:1224>干焦岩</a>、<a href=showinfo:17459>固体干焦岩</a>、<a href=showinfo:17460>流体干焦岩</a>'
+groupID: 18
+iconID: 1201
+marketGroupID: 1857
+name:
+    de: Nocxium
+    en: Nocxium
+    fr: Nocxium
+    ja: ノキシウム
+    ru: Nocxium
+    zh: 超新星诺克石
+portionSize: 1
+published: true
+volume: 0.01

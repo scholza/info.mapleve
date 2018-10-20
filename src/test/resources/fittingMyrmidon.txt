@@ -1,0 +1,29 @@
+[Myrmidon, Mission Passive Shield Tank]
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+Drone Link Augmentor II
+
+10MN Monopropellant Enduring Afterburner
+Thermal Dissipation Amplifier II
+Thermal Dissipation Amplifier II
+Large Shield Extender II
+Large Shield Extender II
+
+Beta Reactor Control: Shield Power Relay I
+Beta Reactor Control: Shield Power Relay I
+Beta Reactor Control: Shield Power Relay I
+Beta Reactor Control: Shield Power Relay I
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+Medium Core Defense Field Purger II
+Medium Core Defense Field Purger II
+Medium Core Defense Field Purger II
+
+Hobgoblin II x5
+Hammerhead II x5
+Garde II x5
+
+EMP M
