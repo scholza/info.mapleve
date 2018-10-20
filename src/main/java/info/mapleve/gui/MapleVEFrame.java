@@ -135,7 +135,7 @@ public class MapleVEFrame extends Application {
 		boms.calculateMaterials(bom);
 		
 		txtBreakdown.setText(bom.toString());
-		txtComponents.setText(bom.extractComponents().toString());
+		txtComponents.setText(bom.extractComponents().aggregateLineItems().toString());
 	}
 	
 	
